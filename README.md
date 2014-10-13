@@ -7,7 +7,7 @@
 * usage
 
 ````javascript
-var EscapeTurkish = require("escape-turkish");`
+var EscapeTurkish = require("escape-turkish");
 console.log(EscapeTurkish("Şşşşh"));
 // prints "Ssssh"
 ````
@@ -16,14 +16,14 @@ console.log(EscapeTurkish("Şşşşh"));
 
 ````
 {
-    "İ": "i",
+    "İ": "I",
     "ı": "i",
     "ş": "s",
     "Ş": "S",
     "ğ": "g",
     "Ğ": "G",
     "ç": "c",
-    "Ç": "c",
+    "Ç": "C",
     "ü": "u",
     "Ü": "U",
     "ö": "o",
