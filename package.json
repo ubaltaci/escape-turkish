@@ -1,6 +1,6 @@
 {
   "name": "escape-turkish",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Escape turkish characters in string such as İ -> I , ğ -> g",
   "main": "index.js",
   "scripts": {
