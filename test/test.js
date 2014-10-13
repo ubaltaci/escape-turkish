@@ -4,7 +4,7 @@
  */
 
 
-var EscapeTurkish = require("../lib");
+var EscapeTurkish = require("..");
 var expect = require("chai").expect;
 
 describe("Escape Turkish Characters", function () {
